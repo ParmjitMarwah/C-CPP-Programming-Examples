@@ -1,7 +1,8 @@
 // program to input week day number and print week day name.
 
-// using switch-case-default
+// using else-if-ladder
 
+// using switch-case-default
 #include <stdio.h>
 
 int main()
